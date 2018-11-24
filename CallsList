@@ -1,1 +1,3 @@
 api.openweathermap.org/data/2.5/weather?q=Odessa&apiid=610c6afcd83c5042a40be394831999f8
+api.openweathermap.org/data/2.5/weather?q=Kiev&apiid=610c6afcd83c5042a40be394831999f8
+api.openweathermap.org/data/2.5/weather?q=Lviv&apiid=610c6afcd83c5042a40be394831999f8
